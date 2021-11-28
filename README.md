@@ -1,4 +1,4 @@
-# Two-Class Image Classification using TensorFlow Keras 
+# 🐈 Two-Class Image Classification using TensorFlow Keras 🐕
 
 
 This Jupyter based Python script is a personal attempt at understanding and working with an Image Classifying Convolutional Neural Network.
